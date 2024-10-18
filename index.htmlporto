@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Tentang Saya</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>Tentang Saya</h2>
+        <p>Yufrizal Ryandhana.</p>
+        <p> makanan kesukaan</p>
+        <p>1. Mie ayam</p>
+        <p>2. Bakso</p>
+        <p>3. Kebab</p>
+        <p> HOBBY </p>
+        <P> 1.Futsal </P>
+        <p> 2.Renang </p>
+        <p> 3.Main Game </p>
+    </section>
+    <section id="contact">
+        <h2>Kontak Saya : 085774194790</h2>
+        <p>Alamat: kab Bojonegoro,Jawa Timur</p>
+        <p>Email: Yufrizal.22058@mhs.unesa.ac.id</p>
+    </section>
+</body>
+</html>
